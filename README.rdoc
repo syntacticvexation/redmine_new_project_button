@@ -1,0 +1,7 @@
+= new_project_button
+
+This is a plugin for Redmine to add a Add New Project to the top toolbar.
+
+== Installation
+
+No additional steps are necessary
